@@ -70,15 +70,57 @@ Select a student by number: 1
 Select media by number: 1
 Playing The Little Shop of Horrors (https://publicdomainmovie.net/movie/the-little-shop-of-horrors-0)
 
-Running Tests
-# Run regression tests for core classes
+
+
+### Running Tests
+
+To verify the functionality of the system, run the regression tests for the core classes. These tests ensure correct implementation of saving/loading, account creation, media playback, and other core functionality.
+
+Example commands:
+
+```bash
 java TestMedia
 java TestAccount
 java TestStudent
 
-Authors
-Najat Hussein – Main developer
-Professor George Fowler Rice – Project guidance and mentoring
+---
+## Running Tests
 
-License
-This project is licensed under the MIT License – see the LICENSE.md file for details.
+hTo verify the functionality of the system, run the regression tests for the core classes. These tests ensure correct implementation of saving/loading, account creation, media playback, and other core functionality.
+
+Example commands:
+
+```bash
+java TestMedia
+java TestAccount
+java TestStudent
+
+```
+### Running Tests
+
+
+ To verify the functionality of the system, run the regression tests for the core classes. These tests ensure correct implementation of saving/loading, account creation, media playback, and other core functionality.
+
+Example commands:
+
+```bash
+java TestMedia
+java TestAccount
+java TestStudent
+```
+
+### Built With
+ This project was built using the following technologies:
+
+- JavaCore programming language
+
+- BufferedReader / BufferedWriter – File I/O for saving and loading data
+
+- ArrayList – Collection framework for managing students and media
+
+### Authors
+- Najat Hussein: Main Developer
+- UTA Professor George Fowler Rice: Project assigner/Mentor
+
+
+
