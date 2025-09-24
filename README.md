@@ -109,7 +109,7 @@ java TestStudent
 
 ### Authors
 - Najat Hussein: Main Developer
-- UTA Professor George Fowler Rice: Project assigner/Mentor
+- UTA Professor George Fowler Rice: Project Mentor
 
 
 
