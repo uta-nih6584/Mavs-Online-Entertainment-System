@@ -84,17 +84,6 @@ java TestAccount
 java TestStudent
 
 ---
-## Running Tests
-
-hTo verify the functionality of the system, run the regression tests for the core classes. These tests ensure correct implementation of saving/loading, account creation, media playback, and other core functionality.
-
-Example commands:
-
-```bash
-java TestMedia
-java TestAccount
-java TestStudent
-
 ```
 ### Running Tests
 
